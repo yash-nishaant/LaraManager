@@ -1,0 +1,1 @@
+<strong>{{$activity->user->name}}</strong> completed <strong>{{$activity->subject->body}}</strong>.
