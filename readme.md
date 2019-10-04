@@ -1,8 +1,8 @@
-##ProjektManager 
+## ProjectManager
 
 This is a simple project manager created using test-driven development with the primary object of showing a level of proficiency with PHPUnit testing. 
 
-##Instructions
+## Instructions
 
 1. Clone git repository and `cd` into it.
 2. Type `composer install` to install all dependencies.
